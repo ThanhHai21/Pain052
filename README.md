@@ -16,8 +16,3 @@ I'm Hai from VietNam.
 - Instagram: https://www.instagram.com/james_nguyen_210601/
 
 Skills: JAVA/ ANDROID/ JS BASIC/ NODEJS BASIC/ REACT-NATIVE BASIC/ HTML / CSS
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/)  
-
