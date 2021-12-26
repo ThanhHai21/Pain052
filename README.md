@@ -1,6 +1,7 @@
 ### Hi there 👋, Thanh Hai
 #### Mobile Developer
 I'm Hai from VietNam. 
+
 -> CAREER GOALS:
 - Desire to gain experience in a professional and dynamic working environment.
 - Improve the knowledge and techniques needed to become a Mobile Developer (Full-Stack).
