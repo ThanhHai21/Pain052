@@ -10,13 +10,14 @@ I'm Hai from VietNam.
 -> MY HOBBIES:
 - I have hobbies of reading, traveling, listening to music, playing sports. 
 
+-> CONTACT ME:
+- LinkedIn: https://www.linkedin.com/in/thanh-hai-nguyen-7a3792197/
+- Facebook: https://www.facebook.com/profile.php?id=100010171960543
+- Instagram: https://www.instagram.com/james_nguyen_210601/
+
 Skills: JAVA/ ANDROID/ JS BASIC/ NODEJS BASIC/ REACT-NATIVE BASIC/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Pain052)]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thanh-hai-nguyen-7a3792197//)]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100010171960543)] 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/james_nguyen_210601//)]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/)  
 
