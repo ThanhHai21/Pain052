@@ -1,4 +1,4 @@
-### Hi there 👋, Thanh Hai
+### Hi there 👋
 #### Mobile Developer
 I'm Hai from VietNam. 
 
