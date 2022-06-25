@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Mobile Developer
+#### Full Stack Mobile Developer
 I'm Hai from VietNam. 
 
 -> CAREER GOALS:
@@ -14,4 +14,4 @@ I'm Hai from VietNam.
 - Facebook: https://www.facebook.com/profile.php?id=100010171960543
 - Instagram: https://www.instagram.com/james_nguyen_210601/
 
-Skills: JAVA/ ANDROID/ JS BASIC/ NODEJS BASIC/ REACT-NATIVE BASIC/ HTML / CSS
+Skills: JAVA/ ANDROID/ FLUTTER/ JS BASIC/ NODEJS BASIC/ REACT-NATIVE BASIC/ HTML / CSS
