@@ -1,6 +1,5 @@
-### Hi there 👋
-#### Full Stack Mobile Developer
-I'm Hai from VietNam. 
+### Hi Guys 👋
+#### I'm Hai from VietNam. (Full Stack Mobile Developer)
 
 -> CAREER GOALS:
 - Desire to gain experience in a professional and dynamic working environment.
